@@ -1,6 +1,6 @@
 # Project
 
-This repo provide you modernization demonstration for Desktop and UWP applications.
+This repository provides you modernization demonstrations for Desktop and UWP applications.
 
 ## Contributing
 
